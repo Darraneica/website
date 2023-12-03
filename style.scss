@@ -1,0 +1,132 @@
+*{
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    background-color: #697E7C;
+    padding: 20px;
+}
+
+
+.fa-cart-plus{
+    font-size: 20px;
+}
+
+#category{
+    width: 90%;
+    border: none;
+
+}
+
+.category{
+    margin-left: 10px;
+}
+
+.main-pic{
+    background-image: url('images/fashion-main.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 60vh;
+    opacity: 100%;
+}
+
+.intro-section{
+    margin-top: 100px;
+    h1{
+        margin-top: 90px;
+        text-align: center;
+        font-size: 100px;
+        color: #fff;
+    }
+    h4{
+        margin-top: 20px;
+        text-align: center;
+        color: #fff;
+    }
+    
+}
+
+
+.btn-section{
+    margin-top: 100px;
+    button{
+        display: block;
+        margin: 0 auto;
+        border: none;
+        border-radius: 5%;
+        font-size: 20px;
+        padding: 10px;
+    }
+
+    
+}
+a.btn-shop{
+        text-decoration: none;
+    }
+
+.spacer{
+    height: 30vh; 
+    margin-bottom: 20px;
+}
+
+.clothes-section{
+    margin-left: 100px;
+    margin-bottom: 100vh;
+}
+
+.discount{
+    text-decoration: line-through;
+}
+
+footer{
+    padding: 10px;
+    background-color: #697E7C;
+
+    h5{
+        text-decoration: underline;
+        font-weight: bolder;
+    }
+
+    .footer-section{
+        margin-left: 20px;
+    }
+
+    .sign-up{
+        font-weight: bolder;
+        margin-left: -30px;
+    }
+}
+
+#email{
+    padding: 5px;
+    width: 40%;
+    margin-left: -30px;
+}
+
+.email-btn{
+    border: none;
+    background-color: olivedrab;
+    color: white;
+    margin-left: -6px;
+    padding: 6px;
+}
+
+#country-drop{
+    margin-left: -30px;
+    width: 20%;
+    padding: 7px;
+    border: none;
+}
+
+#tel{
+    width: 20%;
+    padding: 100%;
+    margin-left: -4px;
+    padding: 6px;
+    border: none;
+}
+
